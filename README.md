@@ -1,2 +1,2 @@
 # logfile-manager
-Mange your logfiles over multiple server instances
+Java FX application to manage logfiles accross multiple servers
